@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+__pycache__/
+/first_lessons/
+/logs/
+/test_results/
+/schemas/
